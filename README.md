@@ -6,7 +6,7 @@ Definición de componentes y lógica
 
 	1- Crear hook personalizado (useForm.js) para encapsular la lógica 
 
-  2- Crear componente principal (ComponentForm.js) para crear el formulario 
+        2- Crear componente principal (ComponentForm.js) para crear el formulario 
 
 Programación de eventos  
 
@@ -18,11 +18,11 @@ Programación de validaciones
 
 	1- Uso de expreciones reguladoras: 
 
-      - regexName = /^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$/; 
+            - regexName = /^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$/; 
 
-      - regexEmail = /^(\w+[/./-]?){1,}@[a-z]+[/.]\w{2,}$/; 
+            - regexEmail = /^(\w+[/./-]?){1,}@[a-z]+[/.]\w{2,}$/; 
 
-      - regexComments = /^.{1,255}$/; 
+            - regexComments = /^.{1,255}$/; 
 
 Envío de datos AJAX y API FormSubmit  
 
@@ -32,6 +32,6 @@ Envío de datos AJAX y API FormSubmit
 
 	3- Utilizar el servicio de FORMSUBMIT   https://formsubmit.co/ 
 
-  4- Re-utilización de componentes (Loader.js y Message.js) 
+        4- Re-utilización de componentes (Loader.js y Message.js) 
 
 ### `npm run start`
